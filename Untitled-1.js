@@ -11,5 +11,5 @@ kotinh.addEventListener("click",function(){
     ketqua.textContent="Tôi không biết tuổi của bạn là bao nhiêu";
 })
 klg.addEventListener("click",function(){
-    alert("Tôi không đã không làm gì cả");
+    alert("Tôi đã không làm gì cả");
 })
