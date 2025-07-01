@@ -85,10 +85,11 @@ body{
 #Main h1, #Ketqua{
     margin: 5px 0px 5px 20px;
 }
-#Tuoi{
+#Tuoi {
     margin-left: 20px;
     height: 100%;
-    width: 100%;
+    width: 80%;
+    border-radius: 10px;
 }
 #Tinh, #Kolamgi, #KoTinh{ 
     margin-left: 0px;
@@ -99,10 +100,6 @@ body{
     font-size: smaller;
     font-weight: bolder;
 }
-#Tuoi{
-    border-radius: 10px;
-    width:80%;
-}
 #main2{
     margin-left: 0px;
     margin-right: 0px;
@@ -111,7 +108,7 @@ body{
     background-image: url(nen3.png);
     background-size: cover;
     background-color: aqua;
-    height: 100%px;
+    height: 100%;
     width: 100%;
     padding: 10px;
 }
