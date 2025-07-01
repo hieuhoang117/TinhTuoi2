@@ -1,7 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-image: url(Nen.png);
-    background-size: 100% 100%;
+    background-size: cover;
 }
 #Main{
     background-image: url(Nen2.png);
