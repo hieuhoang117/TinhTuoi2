@@ -1,7 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-image: url(Nen.png);
-    background-size: cover;
+    background-size: 100% 100%;
 }
 #Main{
     background-image: url(Nen2.png);
@@ -30,4 +30,39 @@ body{
     border-radius: 10px;
     height: 30px;
     width:700px ;
+}
+#main2{
+    background-image: url(nen3.png);
+    background-size: cover;
+    background-color: aqua;
+    margin: 100px 250px 150px 250px;
+    height: 550px;
+    width: 1000px;
+    padding: 10px;
+}
+#nhanloichuc{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 400px;
+    margin-right: 30px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    height: 50px;
+    width: 190px;
+    font-size: large;
+    font-weight: bolder;
+}
+#lloichuc{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 330px;
+    margin-right: 30px;
+    
+}
+#yt{
+    visibility: hidden;
+    margin-left: 225px;
+    margin-right: 30px;
+    width:560px;
+    height:315px;
 }
